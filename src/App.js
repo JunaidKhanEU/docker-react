@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Welcome to React Frontend 2020</p>
+        <p>Welcome to React Docker AWS Travis Frontend 2020</p>
         <a
           className="App-link"
           href="https://reactjs.org"
